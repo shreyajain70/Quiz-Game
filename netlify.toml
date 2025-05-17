@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/quizgame.html"
+status = 200
